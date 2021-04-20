@@ -1,0 +1,24 @@
+#one{
+margin-right: 800px;
+   }
+   #two{
+margin-right: 250px;
+      }
+   #three{
+margin-left: 800px;
+
+      }
+      img{
+          border-radius: 150px;
+      }
+span, h1, h2 , h3, h4, h5{
+  color: aqua;
+}
+#op{
+   box-shadow: 5px 5px 18px grey;
+   background:aqua;
+   border-radius: 20px;
+   padding: 20px;
+   border:2px solid grey;
+   font-size: 30px;
+}
